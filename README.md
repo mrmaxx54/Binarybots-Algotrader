@@ -1,2 +1,2 @@
 ## Binarybots
-This git repository contains all our project files of the Algorithmic Trader Project. You can simply clone the repo and make any changes you want to make and test those changes. Suggestions are accepted.
+This git repository contains all our project files for the Algorithmic Trader Project. You can clone the repo, make any changes you want, and test those changes. I really appreciate any suggestions.
